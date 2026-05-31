@@ -43,8 +43,7 @@ Este repositório contém o app MindDrain — uma aplicação feita com Expo/Rea
 1. Clone o repositório:
 
 ```bash
-git clone <REPO_URL>
-cd MindDrain-29-05-2026
+git clone https://github.com/VictoRossiPereira/ExpoTech-MindDrain.git
 ```
 
 2. Instale dependências do frontend:
