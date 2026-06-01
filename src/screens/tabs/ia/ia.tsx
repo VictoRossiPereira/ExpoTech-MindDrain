@@ -31,7 +31,7 @@ interface Message {
 
 // ─── Gemini API ───────────────────────────────────────────────────────────────
 
-const GEMINI_API_KEY = 'AIzaSyA_jPTWtTLgupNqikD_-o4YjD5WDi6MfmU'; // 🔑 Substitua pela sua chave
+const GEMINI_API_KEY = 'não funciona'; // 🔑 Substitua pela sua chave
 const GEMINI_URL =
   'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=' +
   GEMINI_API_KEY;
